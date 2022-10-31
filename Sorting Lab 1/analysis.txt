@@ -1,0 +1,3 @@
+a.Selection Sort
+b.In the worst-case scenario, Selection sort swaps components "n" times, whereas Bubble sort swaps almost n*(n-1) times.
+Selection sort is superior than Bubble sort because it requires less switching.
